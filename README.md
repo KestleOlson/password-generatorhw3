@@ -10,7 +10,7 @@ Using initial code provided a password generate is created allowing the user to 
 
 * [Password Generator Webpage](https://kestleolson.github.io/Password-Generator/)
 
-* [Github Repo](git@github.com:KestleOlson/Password-Generator.git)
+* [Github Repo](https://kestleolson.github.io/password-generatorhw3/)
 
 ## Usage
 
